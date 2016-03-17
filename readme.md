@@ -1,8 +1,8 @@
-Prise
+# Prise
 
 This is a simple song book app. 
 
-Functionality:
+## Functionalities:
 - The app includes a number of song/hymn books
 - People can search songs by numbers
 - Type the number and hit go. 
