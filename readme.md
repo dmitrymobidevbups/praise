@@ -17,4 +17,6 @@ We are now looking for designers & developers to help us finish this project. If
 
 [**Work on this project as a developer >>**](https://bappy.typeform.com/to/NISC4L)
 
+Please Note: If you are here from Fiverr then please just wait after your application. You don't need to contact us again in Fiverr.	We'll get in touch ASAP.
+
 Work in progress . . .
