@@ -9,4 +9,4 @@ This is a simple song book app.
 
 We are now looking for developers to complete this project. 
 
-Work in progress . . .
+Work in progress . . 
