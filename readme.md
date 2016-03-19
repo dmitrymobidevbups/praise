@@ -19,4 +19,7 @@ We are now looking for designers & developers to help us finish this project. If
 
 Please Note: If you are here from Fiverr then please just wait after your application. You don't need to contact us again in Fiverr.	We'll get in touch ASAP.
 
+### Other Notes
+- We only need the songs (words) to be displayed no sound/music. 
+
 Work in progress . . .
