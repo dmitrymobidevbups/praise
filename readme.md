@@ -12,6 +12,6 @@ This is a simple song book app.
 ### Get hired for this project.
 We are now looking for designers & developers to help us finish this project. If you would like to volunteer on this project or be hired to complete the project please us the link below to apply:
 
-[Work on this project >>](https://bappy.typeform.com/to/NISC4L)
+[**Work on this project >>**](https://bappy.typeform.com/to/NISC4L)
 
 Work in progress . . .
