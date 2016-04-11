@@ -15,7 +15,7 @@ public class sc5 extends AppCompatActivity {
     }
     /** Called when the user clicks the Green button */
     public void sendMessageG(View view) {
-        Intent intent = new Intent(this, DisplayMessageActivity.class);
+        Intent intent = new Intent(this, sc6.class);
         EditText editText = (EditText) findViewById(R.id.editText);
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);

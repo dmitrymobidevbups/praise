@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sanya.dabappy.sc5">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Hymn 1"
+        android:id="@+id/textViewEN"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textAlignment="center"
+        android:textSize="@dimen/abc_action_button_min_height_material" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textViewEN"
+        android:layout_marginTop="60dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView"
+            android:layout_gravity="center_horizontal">
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:id="@+id/editText2"
+                android:textSize="@dimen/abc_dialog_padding_material"
+                android:textAlignment="center"
+                android:text="1. Blessed are they who listen not to evil counsel, Turn aside from ev&apos;ry thought of sin; Day and night, the law of God their Maker Is their joy and meditation, well of life within.  2 Blessed are they, for as a tree by streams of water Spreads its leaves in bountiful displays, Bears and yields its ripened fruit in season- So shall they in ev&apos;ry calling prosper all their days.  3 Blessed are they, though sinners like the chaff be scattered, Blessed are they, though winds of judgement blow; From the Lord, upon His righteous servants, Loving care and tender mercies evermore shall flow ."
+                android:autoText="false"
+                android:scrollIndicators="right"
+                android:width="700dp"
+                android:inputType="none" />
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>
